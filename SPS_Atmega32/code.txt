@@ -1,3 +1,6 @@
+Very Important note:
+add the irsenser.hex file in irsenser in the proteus irsenser
+
 .include "m32def.inc"
 
 ; Constants
